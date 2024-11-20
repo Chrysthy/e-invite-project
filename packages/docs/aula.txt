@@ -1,0 +1,40 @@
+* Prompt de comando
+* Powershell
+* Windows terminal
+
+*Instalar node js
+node --version
+
+* Plug-ins 
+material icon
+Excalidraw
+
+* Terminal
+Entar na pasta apps: cd apps
+
+* Frontend será criado usando o next js
+Rodar npx create-next-app@latest frontend
+
+!Só a última pergunta que vai ser não
+√ Would you like to use TypeScript? ... No / Yes
+√ Would you like to use ESLint? ... No / Yes
+√ Would you like to use Tailwind CSS? ... No / Yes
+√ Would you like your code inside a `src/` directory? ... No / Yes
+√ Would you like to use App Router? (recommended) ... No / Yes
+√ Would you like to use Turbopack for next dev? ... No / Yes
+√ Would you like to customize the import alias (@/* by default)? ... No / Yes  
+
+Installing dependencies:
+- react
+- react-dom
+- next
+
+Installing devDependencies:
+- typescript
+- @types/node
+- @types/react
+- @types/react-dom
+- postcss
+- tailwindcss
+- eslint
+- eslint-config-next
